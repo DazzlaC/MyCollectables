@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737152316352",
+    "project_id": "collectorz-afdd1",
+    "storage_bucket": "collectorz-afdd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737152316352:android:5fa8912aaf4d9cd2598e25",
+        "android_client_info": {
+          "package_name": "com.Varsity.CollecotrZLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737152316352-lslt7ptc1g9b04i132abkbonft7gtqba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnfgKjw1PKY24G2DQytG5tgMafIUz1kPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737152316352-lslt7ptc1g9b04i132abkbonft7gtqba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
